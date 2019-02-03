@@ -60,6 +60,7 @@ public class SimpleTests {
                 () -> assertEquals(16,calc.multiply(8,2)),
                 () -> assertEquals(4,calc.power(2,2))
         );
+        System.out.println("1");
     }
 }
 
